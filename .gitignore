@@ -1,0 +1,6 @@
+node_modules
+venv/
+faiss_index
+.env
+venv
+__pycache__/
